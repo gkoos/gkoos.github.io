@@ -6,7 +6,7 @@
 name: Gabor Koos
 
 # Short bio or description (displayed in the header)
-description: Web Developer from London
+description: Software Engineer in London
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/6031453?v=3&u=9cc3de2d78945036c4335a970f041a827b78260b&s=400
@@ -23,9 +23,9 @@ footer-links:
   flickr:
   github: gkoos
   instagram:
-  linkedin:
+  linkedin: https://uk.linkedin.com/in/gabor-koos-317b8a48
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: gkoos430
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
