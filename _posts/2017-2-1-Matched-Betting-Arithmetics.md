@@ -41,18 +41,18 @@ There are different types of bonuses, here are the four most common as follows:
 
 Here the bettor bets with his own money with both the bookie and the exchange. Most of the times such a bet is needed to release the bonus from the bookmaker. Another use of this formula is *arbing* or arbitrage betting, where the odds differences provided by bookmakers guarantee sure profit regardless the outcome of the event. The table below breaks down how much we win or lose in each case at the bookie and the exchange:
 
-| |Bookie|Exchange
+| |**Bookie**|**Exchange**
 |-|-|-
-|**Back Bet wins**|+ b<sub>1</sub> (o<sub>1</sub> - 1)|- b<sub>2</sub> (o<sub>2</sub> - 1)
-|**Lay Bet Wins**|- b<sub>1</sub>|+ b<sub>2</sub> (1 - c)
+|**Back Bet wins**|*+ b<sub>1</sub> (o<sub>1</sub> - 1)*|*- b<sub>2</sub> (o<sub>2</sub> - 1)*
+|**Lay Bet Wins**|*- b<sub>1</sub>*|*+ b<sub>2</sub> (1 - c)*
 
 Thus the equation is
 
-b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c) - b<sub>1</sub>
+*b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c) - b<sub>1</sub>*
 
 Solving it
  
-**b<sub>2</sub> = b<sub>1</sub> o<sub>1</sub> / (o<sub>2</sub> - c)**
+***b<sub>2</sub> = b<sub>1</sub> o<sub>1</sub> / (o<sub>2</sub> - c)***
 
 So this will be our lay stake.
 
@@ -62,18 +62,18 @@ So this will be our lay stake.
 
 Here the bookmaker gives *b<sub>1</sub>* free money to bet, however the stake is not returned with any winnings. The table of the detailed profit breakdown is:
 
-| |Bookie|Exchange
+| |**Bookie**|**Exchange**
 |-|-|-
-|**Back Bet wins**|+ b<sub>1</sub> (o<sub>1</sub> - 1)|- b<sub>2</sub> (o<sub>2</sub> - 1)
-|**Lay Bet Wins**|0|+ b<sub>2</sub> (1 - c)
+|**Back Bet wins**|*+ b<sub>1</sub> (o<sub>1</sub> - 1)*|*- b<sub>2</sub> (o<sub>2</sub> - 1)*
+|**Lay Bet Wins**|*0*|*+ b<sub>2</sub> (1 - c)*
 
 The equation is
 
-b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c)
+*b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c)*
 
 Solving:
 
-**b<sub>2</sub> = b<sub>1</sub> (o<sub>1</sub> - 1) / (o<sub>2</sub> - c)**
+***b<sub>2</sub> = b<sub>1</sub> (o<sub>1</sub> - 1) / (o<sub>2</sub> - c)***
 
 ---
 
@@ -81,18 +81,18 @@ Solving:
 
 Here again *b<sub>1</sub>* free bonus is given but now it includes its stake in potential winnings. At first it sounds better than the SNR bonus, however such bonuses usually have minimum wagering requirements, making them more difficult to withdraw.
 
-| |Bookie|Exchange
+| |**Bookie**|**Exchange**
 |-|-|-
-|**Back Bet wins**|+ b<sub>1</sub> o<sub>1</sub>|- b<sub>2</sub> (o<sub>2</sub> - 1)
-|**Lay Bet Wins**|0|+ b<sub>2</sub> (1 - c)
+|**Back Bet wins**|*+ b<sub>1</sub> o<sub>1</sub>*|*- b<sub>2</sub> (o<sub>2</sub> - 1)*
+|**Lay Bet Wins**|*0*|*+ b<sub>2</sub> (1 - c)*
 
 The equation:
 
-b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c)
+*b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c)*
 
 And the solution is
 
-**b<sub>2</sub> = b<sub>1</sub> o<sub>1</sub> / (o<sub>2</sub> - c)**
+***b<sub>2</sub> = b<sub>1</sub> o<sub>1</sub> / (o<sub>2</sub> - c)***
 
 (Note that it is exactly the same as the Qualifying bet.)
 
@@ -102,19 +102,19 @@ And the solution is
 
 In this case, if we lose the back bet at the bookmaker, we get *f* worth of free bet. If we win, no bonus is added. Assuming we can extract *r f* of the bonus with a subsequent bet, the profit breakdown is as follows:
 
-| |Bookie|Exchange
+| |**Bookie**|**Exchange**
 |-|-|-
-|**Back Bet wins**|+ b<sub>1</sub> o<sub>1</sub>|- b<sub>2</sub> (o<sub>2</sub> - 1)
-|**Lay Bet Wins**|- b<sub>1</sub> + f r|+ b<sub>2</sub> (1 - c)
+|**Back Bet wins**|*+ b<sub>1</sub> o<sub>1</sub>*|*- b<sub>2</sub> (o<sub>2</sub> - 1)*
+|**Lay Bet Wins**|*- b<sub>1</sub> + f r*|*+ b<sub>2</sub> (1 - c)*
 
 The equation:
 
-b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c) - b<sub>1</sub> + f r
+*b<sub>1</sub> (o<sub>1</sub> - 1) - b<sub>2</sub> (o<sub>2</sub> - 1) = b<sub>2</sub> (1 - c) - b<sub>1</sub> + f r*
 
 Solving
 
-**b<sub>2</sub> = (b<sub>1</sub> o<sub>1</sub> - f r) / (o<sub>2</sub> - c)**
+***b<sub>2</sub> = (b<sub>1</sub> o<sub>1</sub> - f r) / (o<sub>2</sub> - c)***
 
 ---
 
-These formulas are used in the code of the [totaliser](https://github.com/gkoos/totaliser).
+These formulas are used in the code of the [*totaliser*](https://github.com/gkoos/totaliser).
