@@ -300,6 +300,10 @@ sub {
   bottom: -0.25em;
 }
 
+td, th {
+  padding: 5px;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
