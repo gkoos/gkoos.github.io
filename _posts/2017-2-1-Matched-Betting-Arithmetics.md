@@ -33,7 +33,7 @@ Say you are backing Manchester United and Man U’s decimal odds to win are 1.82
 
 ### Denotations
 
-*o<sub>1</sub>* denotes the decimal back odds of an event at a bookmaker and *o<sub>2</sub>* is the decimal lay odds of the same event at a betting exchange where the commission is *c* (*100 c* in perecentages). We lay *b<sub>2</sub>* bet in the exchange and want to make the same profit either the back or the lay bet wins.
+*o<sub>1</sub>* denotes the decimal back odds of an event at a bookmaker and *o<sub>2</sub>* is the decimal lay odds of the same event at a betting exchange where the commission is *c* (*100 c* in percentages). We lay *b<sub>2</sub>* bet in the exchange and want to make the same profit either the back or the lay bet wins.
 
 There are different types of bonuses, here are the four most common as follows:
 
