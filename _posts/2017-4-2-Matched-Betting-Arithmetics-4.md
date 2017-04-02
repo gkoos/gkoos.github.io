@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matched Betting Arithmetics
+title: Matched Betting Arithmetics - Bet365 Offer
 tags:
 - matched betting
 - mathematics
