@@ -11,6 +11,7 @@
 		{ name: 'Featured Projects', href: 'projects' },
 		{ name: 'Testimonials', href: 'testimonials' },
 		{ name: 'Side Projects', href: 'side-projects' },
+		{ name: 'Dev Blog', href: 'https://dev.to/gkoos', external: true },
 	];
 
 	onMount(() => {
@@ -21,7 +22,8 @@
 		const target = document.querySelector(hash);
 		target.scrollIntoView({ behavior: 'smooth' });
 		navItems.forEach((item) => {
-			if (item.querySelector('a').getAttribute('href') === hash) {
+			const link = item.querySelector('a');
+			if (link.getAttribute('href') === hash && !link.hasAttribute('target')) {
 				item.classList.add('active');
 			} else {
 				item.classList.remove('active');
@@ -32,7 +34,7 @@
 			const currentPos = window.scrollY;
 
 			sections.forEach(function (section) {
-				const sectionTop = section.offsetTop - 100;
+				const sectionTop = section.offsetTop - 300;
 				const sectionHeight = section.offsetHeight;
 				const sectionId = section.getAttribute('id');
 
@@ -41,9 +43,10 @@
 						navItem.classList.remove('active');
 					});
 
-					document
-						.querySelector('li.nav-item a[href="#' + sectionId + '"]').parentNode
-						.classList.add('active');
+					const targetNavItem = document.querySelector('li.nav-item a[href="#' + sectionId + '"]');
+					if (targetNavItem && !targetNavItem.hasAttribute('target')) {
+						targetNavItem.parentNode.classList.add('active');
+					}
 				}
 			});
 		});
