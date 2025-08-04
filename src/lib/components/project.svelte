@@ -31,7 +31,7 @@
 						class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"
 					></span>
 					<span
-						>{title} ·
+						>{title} {#if company}·{/if}
 						<span class="inline-block">
 							{company}
 							<Arrow />

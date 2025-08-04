@@ -5,9 +5,9 @@
 	const projects = [
 		{
 			time: '2024',
-			company: 'dmg',
+			company: 'dmg media',
 			link: 'https://www.dmgmedia.co.uk/',
-			title: 'Data sampling for RTA (Real Time Analytics)',
+			title: 'Data sampling for RTA',
 			description: `
         Implement a data sampling solution for the Real Time Analytics platform, which collects and processes user interactions on Daily Mail websites and banner ads. The solution is designed to handle high volumes of data while ensuring that the most relevant trends are captured for analysis.
 				The sampling solution is built using Typescript and Node.js, and it integrates with the existing Real Time Analytics platform. It uses a combination of statistical techniques and heuristics to select a representative sample of user interactions, which are then processed and stored in a scalable manner.
@@ -116,9 +116,9 @@
 		},
 		{
 			time: '2017',
-			company: 'RP',
+			company: 'Racing Post',
 			link: 'https://5star.media/2016/12/12/racing-post-best-gaming-technology-launch-exclusive-product/',
-			title: 'Racingpost integration in BGT betting terminals',
+			title: 'Integration in BGT betting terminals',
 			description: `
        	Enable proprietary Racing Post content on 12000+ self-service betting terminals within multiple UK operator retail betting estates - responsible for the backend and some frontend work.
 				Implementation of some Racing Post API calls, full intergation with the RP B2B API.
@@ -135,9 +135,9 @@
 		},
 		{
 			time: '2015 - 2016',
-			company: 'RP',
+			company: 'Racing Post',
 			link: 'https://www.racingpost.com',
-			title: 'Reports and feeds for Racingpost B2B and website',
+			title: 'Reports and feeds for B2B and website',
 			description: `
        	Rewrite of Racing Post's legacy content delivery system in a scalable, distributed way.
 				Implement a proprietary monitoring system.
