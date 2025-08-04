@@ -5,7 +5,7 @@
 	const projects = [
 		{
 			time: '2024',
-			company: 'dmg media',
+			company: 'dmg',
 			link: 'https://www.dmgmedia.co.uk/',
 			title: 'Data sampling for RTA (Real Time Analytics)',
 			description: `
@@ -116,7 +116,7 @@
 		},
 		{
 			time: '2017',
-			company: 'Racing Post',
+			company: 'RP',
 			link: 'https://5star.media/2016/12/12/racing-post-best-gaming-technology-launch-exclusive-product/',
 			title: 'Racingpost integration in BGT betting terminals',
 			description: `
@@ -135,9 +135,9 @@
 		},
 		{
 			time: '2015 - 2016',
-			company: 'Racing Post',
+			company: 'RP',
 			link: 'https://www.racingpost.com',
-			title: 'Generate all reports and feeds for Racingpost B2B and website',
+			title: 'Reports and feeds for Racingpost B2B and website',
 			description: `
        	Rewrite of Racing Post's legacy content delivery system in a scalable, distributed way.
 				Implement a proprietary monitoring system.
@@ -169,6 +169,7 @@
 					<Project
 						time={project.time}
 						title={project.title}
+						company={project.company}
 						link={project.link}
 						img={project.img}
 						description={project.description}

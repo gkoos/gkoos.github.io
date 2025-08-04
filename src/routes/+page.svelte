@@ -3,9 +3,11 @@
   import Experience from '$lib/sections/experience.svelte';
   import Projects from '$lib/sections/projects.svelte';
   import Testimonials from '$lib/sections/testimonials.svelte';
+  import SideProjects from '$lib/sections/sideprojects.svelte';
 </script>
 
 <About />
 <Experience />
 <Projects />
 <Testimonials />
+<SideProjects />

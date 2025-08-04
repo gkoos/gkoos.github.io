@@ -9,7 +9,8 @@
 		{ name: 'About Me', href: 'about' },
 		{ name: 'Experience', href: 'experience' },
 		{ name: 'Featured Projects', href: 'projects' },
-		{ name: 'Testimonials', href: 'testimonials' }
+		{ name: 'Testimonials', href: 'testimonials' },
+		{ name: 'Side Projects', href: 'side-projects' },
 	];
 
 	onMount(() => {
