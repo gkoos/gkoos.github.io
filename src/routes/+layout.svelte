@@ -11,7 +11,7 @@
 		{ name: 'Featured Projects', href: 'projects' },
 		{ name: 'Testimonials', href: 'testimonials' },
 		{ name: 'Side Projects', href: 'side-projects' },
-		{ name: 'Dev Blog', href: 'https://gaborkoos.com', external: true },
+		{ name: 'Dev Blog', href: 'https://blog.gaborkoos.com', external: true },
 	];
 
 	onMount(() => {
