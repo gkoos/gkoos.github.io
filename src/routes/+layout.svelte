@@ -11,7 +11,7 @@
 		{ name: 'Featured Projects', href: 'projects' },
 		{ name: 'Testimonials', href: 'testimonials' },
 		{ name: 'Side Projects', href: 'side-projects' },
-		{ name: 'Dev Blog', href: 'https://dev.to/gkoos', external: true },
+		{ name: 'Dev Blog', href: 'https://gaborkoos.com', external: true },
 	];
 
 	onMount(() => {
@@ -73,6 +73,26 @@
 				<Menu items={menuItems}></Menu>
 			</div>
 			<ul class="mt-8 ml-1 flex items-center" aria-label="Social media">
+				<li class="mr-5 shrink-0 text-xs">
+					<a
+						class="block hover:text-slate-200"
+						href="mailto: gabor@gaborkoos.com"
+						aria-label="Email"
+						title="Email"
+					>
+					<span class="sr-only">Email</span>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 32 32"
+						fill="none"
+						class="h-6 w-6"
+						aria-hidden="true"
+					>
+<rect x="2" y="2" width="28" height="28" rx="3" fill="currentColor" stroke="currentColor" stroke-width="1.5"/>
+<text x="16" y="24" text-anchor="middle" font-size="23" font-family="Impact, Arial Black, Arial, Helvetica, sans-serif" font-weight="900" fill="#0f172a">@</text>
+					</svg>
+					</a>
+				</li>
 				<li class="mr-5 shrink-0 text-xs">
 					<a
 						class="block hover:text-slate-200"
