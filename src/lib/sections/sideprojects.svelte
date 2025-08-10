@@ -5,6 +5,25 @@
 	const projects = [
 		{
 			time: '2025-',
+			company: 'Nullmail',
+			link: 'https://nullmail.cc',
+			title: 'Nullmail',
+			description: `
+        Nullmail is a privacy-focused, ephemeral tempmail service built with SvelteKit, Supabase, and ForwardEmail, hosted on Vercel. 
+				It provides instant, disposable inboxes with automatic expiry, no sign-up, and no tracking. Ideal for quick, anonymous email verification and sign-up flows.
+				Github: https://github.com/gkoos/nullmail
+      `,
+			img: 'images/nullmail.jpg',
+			techStack: [
+				'JavaScript',
+				'SvelteKit',
+				'Vercel',
+				'Supabase',
+				'Cloudflare'
+			]
+		},
+		{
+			time: '2024-',
 			company: 'Skyline',
 			link: 'https://github.com/gkoos/skyline',
 			title: 'A Go library for skyline queries',
