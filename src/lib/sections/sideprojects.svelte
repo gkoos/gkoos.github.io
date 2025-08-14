@@ -5,6 +5,20 @@
 	const projects = [
 		{
 			time: '2025-',
+			company: 'Ffetch',
+			link: 'https://github.com/gkoos/ffetch',
+			title: 'Ffetch',
+					description: `
+						A production-ready, TypeScript-first library that serves as a drop-in replacement for the native fetch, offering all available options and full flexibility.
+						It supports advanced request/response manipulation, interceptors, retries, delays, hooks, and custom errors.
+					`,
+			img: 'images/npm.jpg',
+			techStack: [
+				'TypeScript',
+			]
+		},
+		{
+			time: '2025-',
 			company: 'Nullmail',
 			link: 'https://nullmail.cc',
 			title: 'Nullmail',
