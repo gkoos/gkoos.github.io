@@ -27,10 +27,10 @@
 			microservices and backend APIs.
 		</p>
 		<p class="mb-4">
-			I have a strong interest in cloud technologies and DevOps practices, having worked with AWS,
-			Docker, and Kubernetes to deploy and manage applications in production environments. I believe
+			I have a strong interest in cloud technologies and DevOps practices, with hands-on experience using AWS, Azure, GCP,
+			Docker, and Kubernetes to deploy and manage production applications. I believe
 			in the importance of writing clean, maintainable code, and I'm always looking for ways to
-			improve development processes through automation and best practices.
+			improve development processes through automation and proven best practices.
 		</p>
 		<p class="mb-4">
 			I'm passionate about solving complex technical challenges and continuously improving

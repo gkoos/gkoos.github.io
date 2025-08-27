@@ -119,7 +119,7 @@
 				<li class="mr-5 shrink-0 text-xs">
 					<a
 						class="block hover:text-slate-200"
-						href="https://www.linkedin.com/in/gabor-koos-317b8a48/"
+						href="https://www.linkedin.com/in/gabor-koos/"
 						target="_blank"
 						rel="noreferrer noopener"
 						aria-label="LinkedIn (opens in a new tab)"
