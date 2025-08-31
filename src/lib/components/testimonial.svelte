@@ -23,7 +23,7 @@
 			</div>
 		</h3>
 		<p class="mt-2 text-sm leading-normal">
-			{text}
+			{@html text}
 		</p>
 	</div>
 </div>

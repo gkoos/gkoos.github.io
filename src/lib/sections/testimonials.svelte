@@ -3,6 +3,16 @@
 
 	const testimonials = [
 		{
+			name: 'Sean Robbins',
+			title: 'Tech Lead, Architect at frog, part of Capgemini Invent',
+			img: 'images/sean.jpg',
+			text: `
+        I managed Gabor during his time as a Senior Consultant at Capgemini Invent. He was a Senior Developer on frog's Application Development team.<br>
+				Gabor is a highly capable engineer with strong technical expertise, particularly with Node.js, JavaScript and TypeScript. His mathematical skill gives him a particular edge for solving complex, logic-heavy problems. This was not a skill always central to our work at frog, part of Capgemini Invent, but was valuable to have available!<br>
+				Gabor is great at working on challenging technical problems with the space to independently explore, design, and deliver a solution. He would be an asset to any team looking for a developer with technical depth.
+      `
+		},
+		{
 			name: 'Scott Ronan',
 			title: 'Head of Technology at Betsson Group',
 			img: 'images/scott.jpg',
