@@ -96,6 +96,24 @@
 				<li class="mr-5 shrink-0 text-xs">
 					<a
 						class="block hover:text-slate-200"
+						href="Gabor_Koos_resume.pdf"
+						target="_blank"
+						rel="noreferrer noopener"
+						aria-label="CV in PDF (opens in a new tab)"
+						title="CV"
+					>
+						<span class="sr-only">CV</span>
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512"
+							><!-- Icon from Academicons by James Walsh - https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL --><path
+								fill="currentColor"
+								d="M48 32C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm98.88 133.234c19.636 0 37.082 6.789 49.929 16.971c11.88 9.452 17.444 18.907 22.298 27.393l-33.923 16.949c-2.427-5.565-5.347-11.387-12.846-17.682c-8.248-6.552-16.478-8.484-23.524-8.484c-27.626 0-42.17 25.693-42.17 54.287c0 37.573 19.161 56.22 42.17 56.22c22.3 0 31.278-15.51 37.08-25.435L219.6 302.66c-6.315 9.926-12.374 19.635-25.95 29.069c-7.262 5.09-23.977 15.037-47.736 15.037C100.586 346.766 64 313.81 64 255.87c0-50.636 34.415-90.637 82.88-90.637m75.483 5.328h45.565L303.31 292.24l35.125-121.678H384l-59.379 171.112H281.01z"
+							/></svg
+						>
+					</a>
+				</li>
+				<li class="mr-5 shrink-0 text-xs">
+					<a
+						class="block hover:text-slate-200"
 						href="https://github.com/gkoos"
 						target="_blank"
 						rel="noreferrer noopener"
@@ -142,19 +160,14 @@
 				<li class="mr-5 shrink-0 text-xs">
 					<a
 						class="block hover:text-slate-200"
-						href="Gabor_Koos_resume.pdf"
+						href="https://x.com/gkoos430"
 						target="_blank"
 						rel="noreferrer noopener"
-						aria-label="CV in PDF (opens in a new tab)"
-						title="LinkedIn"
+						aria-label="Twitter / X (opens in a new tab)"
+						title="Twitter / X"
 					>
-						<span class="sr-only">CV</span>
-						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512"
-							><!-- Icon from Academicons by James Walsh - https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL --><path
-								fill="currentColor"
-								d="M48 32C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm98.88 133.234c19.636 0 37.082 6.789 49.929 16.971c11.88 9.452 17.444 18.907 22.298 27.393l-33.923 16.949c-2.427-5.565-5.347-11.387-12.846-17.682c-8.248-6.552-16.478-8.484-23.524-8.484c-27.626 0-42.17 25.693-42.17 54.287c0 37.573 19.161 56.22 42.17 56.22c22.3 0 31.278-15.51 37.08-25.435L219.6 302.66c-6.315 9.926-12.374 19.635-25.95 29.069c-7.262 5.09-23.977 15.037-47.736 15.037C100.586 346.766 64 313.81 64 255.87c0-50.636 34.415-90.637 82.88-90.637m75.483 5.328h45.565L303.31 292.24l35.125-121.678H384l-59.379 171.112H281.01z"
-							/></svg
-						>
+						<span class="sr-only">X</span>
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" fill="currentColor" id="Layer_1" width="24px" height="24px" viewBox="0 0 24 24" xml:space="preserve"><g><polygon points="12.153992,10.729553 8.088684,5.041199 5.92041,5.041199 10.956299,12.087097 11.59021,12.97345    15.900635,19.009583 18.068909,19.009583 12.785217,11.615906  "/><path d="M21.15979,1H2.84021C1.823853,1,1,1.823853,1,2.84021v18.31958C1,22.176147,1.823853,23,2.84021,23h18.31958   C22.176147,23,23,22.176147,23,21.15979V2.84021C23,1.823853,22.176147,1,21.15979,1z M15.235352,20l-4.362549-6.213013   L5.411438,20H4l6.246887-7.104675L4,4h4.764648l4.130127,5.881958L18.06958,4h1.411377l-5.95697,6.775635L20,20H15.235352z"/></g></svg>
 					</a>
 				</li>
 			</ul>
