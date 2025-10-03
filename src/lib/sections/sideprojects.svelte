@@ -5,16 +5,17 @@
 	const projects = [
 		{
 			time: '2025-',
-			company: 'Ffetch',
-			link: 'https://github.com/gkoos/ffetch',
-			title: 'Ffetch',
+			company: 'fetch-kit',
+			link: 'https://github.com/fetch-kit/',
+			title: 'fetch-kit',
 					description: `
-						A production-ready, TypeScript-first library that serves as a drop-in replacement for the native fetch, offering all available options and full flexibility.
-						It supports advanced request/response manipulation, interceptors, retries, delays, hooks, and custom errors.
+						A set of npm packages for making the native fetch more powerful in production and more testable in development
 					`,
 			img: 'images/npm.jpg',
 			techStack: [
 				'TypeScript',
+				'Node.js',
+				'npm'
 			]
 		},
 		{
