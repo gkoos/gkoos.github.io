@@ -4,6 +4,31 @@
 
 	const jobs = [
 		{
+			time: '2026 -',
+			company: 'Department For Environment, Food & Rural Affairs',
+			link: 'https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs',
+			title: 'Lead Developer',
+			description: `
+        Lead development of digital services and platforms supporting DEFRA's environmental protection and rural affairs initiatives. Design and implement scalable backend systems for citizen-facing services.
+		Drive technical standards and best practices across development teams while ensuring security and accessibility requirements for government services are met.
+      `,
+			techStack: [
+				'Microservices',
+				'Javascript',
+				'Node.js',
+				'Redis',
+				'Kafka',
+				'PostgreSQL',
+				'gRPC',
+				'REST',
+				'AWS',
+				'Azure',
+				'Docker',
+				'Kubernetes',
+				'CI/CD'
+			]
+		},
+		{
 			time: '2024 - 2025',
 			company: 'dmg media (Daily Mail)',
 			link: 'https://www.dailymail.co.uk',
@@ -55,7 +80,7 @@
 				'MongoDB',
 				'DynamoDB',
 				'MySQL',
-				'Postgres',
+				'PostgreSQL',
 				'REST',
 				'GraphQL',
 				'AWS',
@@ -114,7 +139,7 @@
 				'Typescript',
 				'Node.js',
 				'Express',
-				'Postgres',
+				'PostgreSQL',
 				'MongoDB',
 				'React',
 				'AWS',

@@ -38,8 +38,8 @@
 		</p>
 		<p class="mb-4">
 			Beyond professional work, I'm an open source maintainer of <a class="text-slate-200 hover:underline" href="https://github.com/fetch-kit" target="_blank" rel="noreferrer noopener">fetch-kit</a>, 
-			a suite of libraries for safe and testable data fetching, and I regularly share insights as a technical blogger on <a class="text-slate-200 hover:underline" href="https://blog.gaborkoos.com" target="_blank" rel="noreferrer noopener">Import Chaos</a> 
-			and <a class="text-slate-200 hover:underline" href="https://www.freecodecamp.org/news/author/gkoos/" target="_blank" rel="noreferrer noopener">freeCodeCamp</a>.
+			a suite of libraries for safe and testable data fetching, and I regularly share insights as a technical blogger on <a class="text-slate-200 hover:underline" href="https://blog.gaborkoos.com" target="_blank" rel="noreferrer noopener">my own blog</a> 
+			and <a class="text-slate-200 hover:underline" href="https://blog.gaborkoos.com/publications" target="_blank" rel="noreferrer noopener">other publications</a>.
 		</p>
 	</div>
 </section>

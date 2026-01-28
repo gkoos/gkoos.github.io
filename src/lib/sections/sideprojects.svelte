@@ -5,6 +5,29 @@
 	const projects = [
 		{
 			time: '2025-',
+			company: 'Technical Writing',
+			link: 'https://blog.gaborkoos.com',
+			title: 'Technical Writing',
+					description: `
+						Technical articles and tutorials covering distributed systems, backend architecture, TypeScript, Go, and software engineering practices. Published on InfoQ, The New Stack, freeCodeCamp, AppSignal, and my blog
+					`,
+			img: 'images/blogging.jpg',
+			techStack: [
+				'TypeScript',
+				'JavaScript',
+				'Node.js',
+				'Cloudflare',
+				'Golang',
+				'Concurrency',
+				'Distributed Systems',
+				'Databases',
+				'RDBMS',
+				'NoSQL',
+				'Software Architecture'
+			]
+		},
+		{
+			time: '2025-',
 			company: 'fetch-kit',
 			link: 'https://github.com/fetch-kit/',
 			title: 'fetch-kit',
