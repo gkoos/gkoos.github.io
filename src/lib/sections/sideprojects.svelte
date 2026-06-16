@@ -29,7 +29,7 @@
 		{
 			time: '2025-',
 			company: 'fetch-kit',
-			link: 'https://github.com/fetch-kit/',
+			link: 'https://fetchkit.org/',
 			title: 'fetch-kit',
 					description: `
 						A set of npm packages for making the native fetch more powerful in production and more testable in development
