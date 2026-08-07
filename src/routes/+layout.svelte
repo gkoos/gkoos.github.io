@@ -70,6 +70,11 @@
 				</p>
 
 				<Menu items={menuItems}></Menu>
+				<div>
+				<a href="https://blog.gaborkoos.com/publications/database-safari">
+					<img src="/images/database-safari.png" alt="The Database Safari book cover" class="mt-8 w-48 rounded-lg shadow-lg" />
+				</a>
+			</div>
 			</div>
 			<ul class="mt-8 ml-1 flex items-center" aria-label="Social media">
 				<li class="mr-5 shrink-0 text-xs">
