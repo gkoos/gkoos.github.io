@@ -71,6 +71,7 @@
 
 				<Menu items={menuItems}></Menu>
 				<div>
+				<h2 class="mt-3 text-sm font-medium tracking-tight text-slate-200 sm:text-sm">My Book</h2>
 				<a href="https://blog.gaborkoos.com/publications/database-safari">
 					<img src="/images/database-safari.jpg" alt="The Database Safari book cover" class="mt-8 w-48 rounded-lg shadow-lg" />
 				</a>

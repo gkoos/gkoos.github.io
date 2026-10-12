@@ -6,7 +6,7 @@
 	</div>
 	<div>
 		<p class="mb-4">
-			I'm a Hungarian software engineer with 10+ years of experience, currently located
+			I'm a Hungarian software engineer with 15+ years of experience, currently located
 			in London. I specialize in designing and building scalable, high-performance web applications,
 			with a strong focus on clean architecture, maintainable code, and efficient backend systems. I
 			was working for companies like the Daily Mail, Capgemini, Betsson Group, Racing Post and Origo
